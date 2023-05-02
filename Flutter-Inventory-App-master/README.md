@@ -16,12 +16,7 @@ This app is focused on making the sales entry, stock entry as fast as practicall
 * Integration of Authentication like google signin, email authentication with firebase_auth.
 * Continuous integration for streamlined devflow
 
-## App overview
-<img src="images/1.png" width="280"/> <img src="images/2.png" width="280"/> <img src="images/3.png" width="280" /><img src="images/4.png" width="280" />
-<img src="images/5.png" width="280"/> <img src="images/6.png" width="280"/> <img src="images/7.png" width="280" /><img src="images/8.png" width="280" />
-<img src="images/9.png" width="280"/> <img src="images/10.png" width="280"/> <img src="images/11.png" width="280" /><img src="images/12.png" width="280" />
-<img src="images/13.png" width="280"/> <img src="images/14.png" width="280"/> <img src="images/15.png" width="280" /><img src="images/16.png" width="280" />
-<img src="images/17.png" width="280"/>
+
 
 ## Project Installation:
 
@@ -34,9 +29,6 @@ Head over to the release page to try out the apps. [APK Releases]
 * Install flutter : [Flutter Installation](https://flutter.dev/docs/get-started/install)
 
 #### 2. Clone this repo
-```
-$ git clone https://github.com/hemanta212/inventory_app.git
-$ cd inventory_app
 ```
 
 #### 3. Setup the firebase app
