@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888735395461",
+    "project_id": "finventory-d9412",
+    "storage_bucket": "finventory-d9412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888735395461:android:1c6c191a1d54a59bfc43ec",
+        "android_client_info": {
+          "package_name": "com.example.Stock_Manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888735395461-so4jn1qgpbp2t30f7i708avij0663gqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU9NJlEN9C0J9-LwFfEkxsKkc6r-MCQfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888735395461-so4jn1qgpbp2t30f7i708avij0663gqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
